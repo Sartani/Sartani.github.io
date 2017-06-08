@@ -4,7 +4,6 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>Mikon sivut</title>
 
     <!-- Bootstrap -->
@@ -18,13 +17,7 @@
     <![endif]-->
   </head>
   <body>
-    <!--  <ul class="nav nav-pills" role="tablist">
-  <li role="presentation" class="active" ><a href="#home" aria-controls="home" role="pill" data-toggle="pill">Home</a></li>
-  <li role="presentation"><a href="#profile" aria-controls="home" role="pill" data-toggle="pill">Profile</a></li>
-  <li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab">Messages</a></li>
-</ul>
-    -->
-      <!-- Nav tabs -->
+
        <div class="row">
 
    <div class="col-sm-4"></div>
@@ -74,9 +67,8 @@
     </div>
   </div>
 
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
   </body>
 </html>

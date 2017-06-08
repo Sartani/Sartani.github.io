@@ -66,7 +66,7 @@ Haluan kehittyä alalla ja omaan riittävät taidot uusien asioiden nopeaan omak
 <h5>1.9.2006-15.9.2008 Perussuomalaiset RP, toimistosiistijä</h5>
 
 
-<p>2004-2008 kesät töissä mm. venesataman kioskin myyjänä, McDonaldsin myyjänä ja apulaisena kodinkoneliikkeessä. Lehtiä jaoin ala-aste ikäisenä.</p>
+<p>2004-2008 kesät töissä mm. venesataman kioskin myyjänä, McDonald'sin myyjänä ja apulaisena kodinkoneliikkeessä. Lehtiä jaoin ala-aste ikäisenä.</p>
 
 
 
